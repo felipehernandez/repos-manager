@@ -1,0 +1,11 @@
+- folder: folder1/path
+  base: git@bitbucket.org:bar
+  repos:
+    - repo1
+    - repo2
+- folder: folder2/path
+  base: git@github.com:foo
+  repos:
+    - repo3
+    - repo4
+    - repo5
